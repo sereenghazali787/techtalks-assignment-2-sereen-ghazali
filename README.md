@@ -80,3 +80,5 @@ The research influenced the learning plan by prioritizing core Full-Stack develo
 ## Goal
 
 The goal of this assignment is to turn real job-market evidence into a focused career development plan rather than attempting to learn every technology associated with Full-Stack Development..
+=======
+
